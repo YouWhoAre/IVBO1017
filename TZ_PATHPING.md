@@ -89,8 +89,9 @@
 
 #### 4.1.2. Требования к организации входных и выходных данных
 
-Синтаксис утилиты PATHPING:  
-pathping [/n] [/h <maximumhops>] [/g <hostlist>] [/p <Period>] [/q <numqueries> [/w <timeout>] [/i <IPaddress>] [/4 <IPv4>] [/6 <IPv6>][<targetname>]
+Синтаксис утилиты PATHPING:
+
+    pathping [/n] [/h <maximumhops>] [/g <hostlist>] [/p <Period>] [/q <numqueries> [/w <timeout>] [/i <IPaddress>] [/4 <IPv4>] [/6 <IPv6>][<targetname>]
 
 Параметры утилиты PATHPING:
 
